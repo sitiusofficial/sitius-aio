@@ -7,3 +7,5 @@ True AIO discord bot written in python with easy self hosting.
 - [ ] Carl-bot
 - [ ] Arcane
 - [ ] UnBelivaBot
+- [ ] DisBoard
+- [ ] Any reputation bot
